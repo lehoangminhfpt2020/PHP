@@ -7,3 +7,7 @@ $D= $_POST["email"];
 echo "Your personal detail";
 echo "<br> <br>";
 echo "empID: $A <br>";
+echo "Name: $B <br>";
+echo "Department name: $C <br>";
+echo "Email: $D <br>";
+?>
