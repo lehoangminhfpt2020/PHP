@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../minhtodo">
+      <sourceFolder url="file://$MODULE_DIR$/../minhtodo/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/../minhtodo/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/../minhtodo/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/../minhtodo/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../minhtodo/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/../minhtodo/tests/Feature" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../minhtodo/tests/Unit" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/asm89/stack-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/laravel/sail" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/facade/ignition-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/facade/flare-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/facade/ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/fruitcake/laravel-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/fakerphp/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/http-client-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/../minhtodo/vendor/sebastian/comparator" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
