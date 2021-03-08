@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Pactive student</title>
+    <title>Pactice student</title>
     <style>
         table {
             font-family: arial, sans-serif;
