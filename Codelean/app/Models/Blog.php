@@ -11,9 +11,9 @@ class Blog extends Model
 
     protected $table = 'blogs';
     protected $primaryKey = 'id';
-    protected $guarded = [];
+    protected $guarded =[];
 
     public function blogComments(){
-        return $this->hasMany(BlogComment::class, 'blog_id', 'id');
+        return $this->hasMany(BlogComment::class,'blog_id','id');
     }
 }

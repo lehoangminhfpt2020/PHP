@@ -11,13 +11,13 @@ class ProductComment extends Model
 
     protected $table = 'product_comments';
     protected $primaryKey = 'id';
-    protected $guarded = [];
+    protected $guarded =[];
 
     public function product(){
-        return $this->belongsTo(Product::class, 'product_id', 'id');
+        return $this->belongsTo(Product::class,'product_id','id');
     }
 
     public function user(){
-        return $this->belongsTo(User::class, 'user_id', 'id');
+        return  $this->belongsTo(User::class,'user_id','id');
     }
 }

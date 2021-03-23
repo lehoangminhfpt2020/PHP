@@ -25,6 +25,7 @@ class CreateUsersTable extends Migration
             $table->tinyInteger('level');
             $table->text('description')->nullable();
 
+
             $table->timestamps();
         });
     }

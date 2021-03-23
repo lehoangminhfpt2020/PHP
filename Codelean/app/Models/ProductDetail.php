@@ -8,12 +8,11 @@ use Illuminate\Database\Eloquent\Model;
 class ProductDetail extends Model
 {
     use HasFactory;
-
     protected $table = 'product_details';
     protected $primaryKey = 'id';
-    protected $guarded = [];
+    protected $guarded =[];
 
     public function product(){
-        return $this->belongsTo(Product::class, 'product_id', 'id');
+        return $this->belongsTo(Product::class,'product_id','id');
     }
 }
